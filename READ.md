@@ -4,10 +4,11 @@
 
 ### 1. Basic syntax
 
- #### const functionName = (params) => {
-  #### // code to be executed
-#### }
-
+ ```javascript
+ const functionName = (params) => {
+  // code to be executed
+}
+```
 #### 1. **const**: const should be used whenever a function expression is assigned to a variable.
 #### 1. **The function name**: The name you choose for the function.
 #### 1. **Parameters**: Optional comma separated parameters. This is the data passed into the function. If there are no parameters, the () is still required.
@@ -16,10 +17,11 @@
 
 #### ***Example***:
 
-#### const greet = (name) => {
- #### console.log("Hello, " + name + "!");
-#### }
-
+```javascript
+const greet = (name) => {
+ console.log("Hello, " + name + "!");
+}
+```
 ##### Tip: Functions often perform actions, so naming with a verb can make it clear what the function does. Examples include fetchData( ), calculateArea( ), or printReport( ). 
 
 ### 2. Calling a function
@@ -28,7 +30,7 @@
 
 #### ***Example***:
 
-#### greet('Alice'); // Outputs: Hello, Alice!
+greet('Alice'); // Outputs: Hello, Alice!
 
 ### 3. Return values
 
@@ -36,13 +38,16 @@
 
 #### ***Example***: 
 
-#### const addNums = (numA, numB) => {
-  #### return numA + numB
-#### }
+ ```javascript
+ const addNums = (numA, numB) => {
+  return numA + numB
+ }
+```
+```javascript
+const total = addNums(2, 4);
 
-#### const total = addNums(2, 4);
-
-#### console.log(total) // Expected value: 6
+console.log(total) // Expected value: 6
+```
 
 ##### For more information on functions and how they are used in JS, check out the MDN docs. 
 ##### https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
