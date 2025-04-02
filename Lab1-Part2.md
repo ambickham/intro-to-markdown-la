@@ -58,4 +58,4 @@ Clearly outlining the scenario allows individuals to maintain autonomy in strate
     >You identified resource allocation as a key factor — great insight! Consider also evaluating the potential impact on stakeholder expectations. How might you communicate any adjustments to maintain alignment?
 
 
-To learn more about topics like these and others that our transformative Leaders are dsicussing, visit [National Leadership Fellow](hhttps://plus.unsplash.com/premium_photo-1682284079685-657fb4f33de5?w=1600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YWklMjBwb3dlcmVkJTIwd29ya2ZvcmNlJTIwcHJvbXB0JTIwY29sbGVnZXxlbnwwfHwwfHx8MA%3D%3D) and see what our Mentors, Alumni, and Cohort are up to.
+To learn more about topics like these and others that our transformative Leaders are dsicussing, visit [National Leadership Fellow](https://nextleadersfellowship.org/fellows) and see what our Mentors, Alumni, and Cohort are up to.
